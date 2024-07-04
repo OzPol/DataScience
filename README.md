@@ -16,12 +16,6 @@ https://www.kaggle.com/datasets/marcopale/housing/data
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 
-### Original Dataset
-
-- **Target:** 734 rows in `target.csv`
-- **Test:** 734 rows in `test.csv`
-- **Train:** 2198 rows in `train.csv`
-
 ### Competition Dataset
 
 - **AmesHousing:** 2931 rows in `AmesHousing.csv`
