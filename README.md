@@ -35,11 +35,6 @@ The competition dataset is divided differently than the original dataset, allowi
 ### Data Directory Structure
 
       data/
-      ├── original/
-      │ ├── AmesHousing.csv
-      │ ├── target.csv
-      │ ├── test.csv
-      │ ├── train.csv
       ├── competition/
       │ ├── AmesHousing.csv
       │ ├── data_description.txt
@@ -54,11 +49,6 @@ The competition dataset is divided differently than the original dataset, allowi
       ├── .devcontainer/
       │ └── devcontainer.json
       ├── data/
-      │ ├── original/
-      │ │ ├── AmesHousing.csv
-      │ │ ├── target.csv
-      │ │ ├── test.csv
-      │ │ ├── train.csv
       │ ├── competition/
       │ │ ├── AmesHousing.csv
       │ │ ├── data_description.txt
