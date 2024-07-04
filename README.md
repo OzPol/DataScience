@@ -196,16 +196,16 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### References:
 
-https://jse.amstat.org/v19n3/decock.pdf
-https://www.kaggle.com/datasets/marcopale/housing/data
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
-https://www.mdpi.com/2220-9964/12/5/200
-https://seaborn.pydata.org/tutorial.html
-https://matplotlib.org/stable/gallery/index
-https://pandas.pydata.org/pandas-docs/stable/reference/plotting.html
-https://www.tensorflow.org/tutorials/keras/text_classification
-https://www.tensorflow.org/tutorials/keras/regression
-https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
+- https://jse.amstat.org/v19n3/decock.pdf
+- https://www.kaggle.com/datasets/marcopale/housing/data
+- https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+- https://www.mdpi.com/2220-9964/12/5/200
+- https://seaborn.pydata.org/tutorial.html
+- https://matplotlib.org/stable/gallery/index
+- https://pandas.pydata.org/pandas-docs/stable/reference/plotting.html
+- https://www.tensorflow.org/tutorials/keras/text_classification
+- https://www.tensorflow.org/tutorials/keras/regression
+- https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
 
 
 
