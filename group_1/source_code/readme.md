@@ -20,35 +20,35 @@ data/
 
 ## Repository Structure
 
-group_1/
-├── report.pdf
-├── source_code/
-│   ├── data_cleaning.py
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── nb1_exploring_and_visualization.ipynb
-│   ├── nb2_baseline_simple_linear_regression.ipynb
-│   ├── nb3_multivariable_linear_regression.ipynb
-│   ├── nb4_lasso_regression.ipynb
-│   ├── nb5_ridge_regression.ipynb
-│   ├── nb6_elasticnet_regression.ipynb
-│   ├── nb7_random_forest.ipynb
-│   ├── nb8_gradient_boosting.ipynb
-│   ├── nb9_xgboost.ipynb
-│   ├── nb10_svr.ipynb
-│   ├── nb11_ann.ipynb
-│   ├── nb12_ann.ipynb
-│   ├── nb13_ensemble_votingregressor.ipynb
-│   ├── nb14_ensemble_xgboost_svr_gradientbooster.ipynb
-│   ├── readme.md
-├── .devcontainer/
-│   ├── devcontainer.json
-├── data/
-│   ├── AmesData.csv
-│   ├── data_description.txt
-├── requirements.txt
-├── setup.sh
-└── readme.md
+    group_1/
+    ├── report.pdf
+    ├── source_code/
+    │   ├── data_cleaning.py
+    │   ├── data_preprocessing.py
+    │   ├── feature_engineering.py
+    │   ├── nb1_exploring_and_visualization.ipynb
+    │   ├── nb2_baseline_simple_linear_regression.ipynb
+    │   ├── nb3_multivariable_linear_regression.ipynb
+    │   ├── nb4_lasso_regression.ipynb
+    │   ├── nb5_ridge_regression.ipynb
+    │   ├── nb6_elasticnet_regression.ipynb
+    │   ├── nb7_random_forest.ipynb
+    │   ├── nb8_gradient_boosting.ipynb
+    │   ├── nb9_xgboost.ipynb
+    │   ├── nb10_svr.ipynb
+    │   ├── nb11_ann.ipynb
+    │   ├── nb12_ann.ipynb
+    │   ├── nb13_ensemble_votingregressor.ipynb
+    │   ├── nb14_ensemble_xgboost_svr_gradientbooster.ipynb
+    │   ├── readme.md
+    ├── .devcontainer/
+    │   ├── devcontainer.json
+    ├── data/
+    │   ├── AmesData.csv
+    │   ├── data_description.txt
+    ├── requirements.txt
+    ├── setup.sh
+    └── readme.md
 
 
 ## Prerequisites
